@@ -39,4 +39,3 @@ make-node:
     - watch:
       - cmd: get-node
 
-# {% include 'node/source_npm.sls' %}
